@@ -104,7 +104,7 @@
 
     /* Set fixed widths for columns */
     th:nth-child(1), td:nth-child(1) {
-        width: 200px;
+        width: 500px;
         padding: 5px;
     }
 
@@ -119,12 +119,12 @@
     }
 
     th:nth-child(3) {
-        width: 350px;
+        width: 500px;
         text-align: center;
     }
 
     td:nth-child(3) {
-        width: 350px;
+        width: 500px;
         text-align: left;
     }
 
